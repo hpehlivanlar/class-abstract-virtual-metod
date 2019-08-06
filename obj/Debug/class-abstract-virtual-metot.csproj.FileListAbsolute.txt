@@ -1,0 +1,7 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\bin\Debug\class-abstract-virtual-metot.exe.config
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\bin\Debug\class-abstract-virtual-metot.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\bin\Debug\class-abstract-virtual-metot.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\obj\Debug\class-abstract-virtual-metot.csprojAssemblyReference.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\obj\Debug\class-abstract-virtual-metot.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\obj\Debug\class-abstract-virtual-metot.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-abstract-virtual-metot\obj\Debug\class-abstract-virtual-metot.pdb
